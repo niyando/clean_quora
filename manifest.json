@@ -1,6 +1,6 @@
 {
   "name": "Clean Quora",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "This extension cleans quora feed by removing ads, links and suggestions.",
   "homepage_url": "http://www.niyando.com",
